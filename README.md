@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Karol and I'm begginer programmer and IT student. I really like making websites in front-end and back-end and programming in JavaScript and Java, C# is also my good site.
+- 👀 I’m interested in football, programming and fast cars.
+- 🏫 I’m currently learning in technical school in Brzesko, Poland.
+- 📚 I currently know how to program in Java, JavaScript, Angular, C#, C++, Python, PHP, MySQL, Djangoo and how to write code in HTML5 and CSS3
+- 📫 If you wanna colaborate with me write message to my DMs at github
